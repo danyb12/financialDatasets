@@ -10,7 +10,7 @@ Financial Datasets parsed from Yahoo Finance, Nasdaq, and news
 
 # End Goal
 
-Creating a binary classification supervised learning algorithm for file named: binary classification automated
+Creating a binary classification supervised learning algorithm for file named: binary_classification_automatedv2
 
 You can locate file in stocks_neural
 
@@ -18,5 +18,5 @@ You can locate file in stocks_neural
 
 Using this model to trade options before/after earnings to take advantage of volatility and price increase to maximize profits
 
-
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
 
