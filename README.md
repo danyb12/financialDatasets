@@ -33,11 +33,23 @@ These charts are used to supplement the program:
 1. Daily Market Movement (replace nflx with /es)
 ![CHART1](https://github.com/danyb12/financialDatasets/blob/master/charts/market_Daily.JPG)
 
+
+
 2. Momentum
 ![CHART2](https://github.com/danyb12/financialDatasets/blob/master/charts/momentum_etc.JPG)
 
+
+
+
+
 3. Volume and Price
 ![CHART3](https://github.com/danyb12/financialDatasets/blob/master/charts/volume_price.JPG)
+
+
+
+
+
+
 
 # IMPROVEMENTS
 
