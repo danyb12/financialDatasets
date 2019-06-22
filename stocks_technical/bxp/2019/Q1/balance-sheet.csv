@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"543,359","434,767","356,914","723,718"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"1,120,993","953,761","891,686","852,748"
+5,Inventory,-,-,-,-
+6,Other Current Assets,"176,775","148,573","192,331","256,544"
+7,Total Current Assets,"1,841,127","1,537,101","1,441,440","1,835,374"
+8,Long Term Investments,"984,507","649,086","799,012","255,604"
+9,Property Plant and Equipment,"16,551,621","16,302,083","15,678,372","15,303,446"
+10,Goodwill,-,-,-,-
+11,Intangible Assets,-,-,-,-
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"879,222","883,963","932,819","957,062"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"20,256,477","19,372,233","18,851,643","18,351,486"
+16,Current Liabilities,,,,
+17,Accounts Payable,"276,645","331,500","298,324","274,709"
+18,Short/Current Long Term Debt,-,-,"307,093",-
+19,Other Current Liabilities,"165,114","139,040","130,508","327,320"
+20,Total Current Liabilities,"531,026","554,186","979,858","792,415"
+21,Long Term Debt,"11,007,757","10,271,611","9,497,813","9,201,209"
+22,Other Liabilities,"503,726","443,980","442,048","470,935"
+23,Deferred Long Term Liability Charges,"678,724","679,038","686,163","704,867"
+24,Minority Interest,"2,330,797","2,288,499","2,145,629","2,177,492"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"12,042,509","11,269,777","10,919,719","10,464,559"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,545","1,543","1,538","1,536"
+32,Retained Earnings,-,-,-,-
+33,Treasury Stock,"-725,997","-765,494","-748,667","-797,788"
+34,Capital Surplus,"6,407,623","6,377,908","6,333,424","6,305,687"
+35,Other Stockholder Equity,"-723,275","-762,772","-745,945","-795,066"
+36,Total Stockholder Equity,"5,683,171","5,613,957","5,586,295","5,509,435"
+37,Net Tangible Assets,"5,683,171","5,613,957","5,586,295","5,509,435"

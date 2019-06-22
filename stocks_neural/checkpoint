@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorflow_testmodel.ckpt"
+all_model_checkpoint_paths: "tensorflow_testmodel.ckpt"

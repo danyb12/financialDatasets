@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,-,"3,394,000","2,801,000","2,213,000"
+3,Short Term Investments,-,-,-,"5,148,000"
+4,Net Receivables,-,"1,793,000","1,691,000","1,731,000"
+5,Inventory,-,"1,475,000","1,430,000","1,604,000"
+6,Other Current Assets,-,"601,000","652,000","1,100,000"
+7,Total Current Assets,-,"7,263,000","6,574,000","11,796,000"
+8,Long Term Investments,-,"4,000","7,000","46,000"
+9,Property Plant and Equipment,-,"4,588,000","4,289,000","4,386,000"
+10,Goodwill,-,"3,099,000","2,595,000","2,687,000"
+11,Intangible Assets,-,"1,374,000","1,111,000","1,349,000"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,-,"783,000","970,000","698,000"
+14,Deferred Long Term Asset Charges,-,"408,000","629,000","354,000"
+15,Total Assets,-,"17,111,000","15,546,000","20,962,000"
+16,Current Liabilities,,,,
+17,Accounts Payable,-,"920,000","791,000","716,000"
+18,Short/Current Long Term Debt,-,"3,000","3,000","810,000"
+19,Other Current Liabilities,-,"989,000","1,059,000","1,610,000"
+20,Total Current Liabilities,-,"2,821,000","2,744,000","5,750,000"
+21,Long Term Debt,-,"3,509,000","2,779,000","3,922,000"
+22,Other Liabilities,-,"1,665,000","1,743,000","2,425,000"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,"-8,000","-10,000","19,000"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,-,"7,995,000","7,266,000","12,097,000"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,-,"683,000","683,000","683,000"
+32,Retained Earnings,-,"14,483,000","14,200,000","9,683,000"
+33,Treasury Stock,-,"-11,982,000","-12,551,000","-7,422,000"
+34,Capital Surplus,-,"5,940,000","5,958,000","5,902,000"
+35,Other Stockholder Equity,-,"-4,001,000","-4,556,000","224,000"
+36,Total Stockholder Equity,"9,130,000","9,124,000","8,290,000","8,846,000"
+37,Net Tangible Assets,"4,748,000","4,651,000","4,584,000","4,810,000"

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"283,000","561,000","543,000","268,000"
+3,Short Term Investments,"157,000","534,000","203,000","177,000"
+4,Net Receivables,"3,952,000","4,060,000","3,560,000","3,479,000"
+5,Inventory,"2,785,000","2,620,000","2,346,000","2,323,000"
+6,Other Current Assets,"59,000","47,000","44,000","45,000"
+7,Total Current Assets,"7,590,000","8,337,000","7,033,000","6,616,000"
+8,Long Term Investments,"22,000","41,000","84,000","96,000"
+9,Property Plant and Equipment,"3,467,000","3,502,000","3,443,000","3,565,000"
+10,Goodwill,"13,328,000","13,568,000","13,201,000","13,479,000"
+11,Intangible Assets,"4,846,000","5,265,000","5,514,000","6,014,000"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"1,839,000","1,910,000","1,201,000","1,226,000"
+14,Deferred Long Term Asset Charges,"293,000","253,000","325,000","362,000"
+15,Total Assets,"31,092,000","32,623,000","30,476,000","30,996,000"
+16,Current Liabilities,,,,
+17,Accounts Payable,"2,130,000","2,166,000","1,718,000","1,758,000"
+18,Short/Current Long Term Debt,"340,000","578,000","1,552,000","242,000"
+19,Other Current Liabilities,"1,749,000","1,801,000","1,745,000","1,711,000"
+20,Total Current Liabilities,"5,154,000","5,075,000","5,485,000","4,625,000"
+21,Long Term Debt,"6,797,000","7,184,000","6,720,000","7,748,000"
+22,Other Liabilities,"2,999,000","3,074,000","3,273,000","3,392,000"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,"35,000","37,000","44,000","45,000"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"14,950,000","15,333,000","15,478,000","15,765,000"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"4,000","4,000","5,000","5,000"
+32,Retained Earnings,"8,161,000","8,669,000","7,555,000","7,346,000"
+33,Treasury Stock,"-4,148,000","-3,407,000","-4,451,000","-3,866,000"
+34,Capital Surplus,"12,090,000","11,987,000","11,845,000","11,701,000"
+35,Other Stockholder Equity,"-4,148,000","-3,407,000","-4,451,000","-3,866,000"
+36,Total Stockholder Equity,"16,107,000","17,253,000","14,954,000","15,186,000"
+37,Net Tangible Assets,"-2,067,000","-1,580,000","-3,761,000","-4,307,000"

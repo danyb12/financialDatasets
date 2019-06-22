@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,9/30/2018,9/30/2017,9/30/2016,9/30/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"2,073,017","650,561","1,586,994","714,033"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"704,310","636,127","576,339","444,072"
+5,Inventory,"805,292","730,681","724,011","591,401"
+6,Other Current Assets,-,"77,500",-,-
+7,Total Current Assets,"3,657,287","2,133,552","2,930,697","1,786,587"
+8,Long Term Investments,"97,286","15,809","4,232","8,180"
+9,Property Plant and Equipment,"388,333","324,924","310,580","260,684"
+10,Goodwill,"6,223,290","5,745,338","5,679,452","4,686,220"
+11,Intangible Assets,"1,788,404","1,717,862","1,764,343","1,539,851"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"42,867","38,176","36,973","22,413"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"12,197,467","9,975,661","10,726,277","8,303,935"
+16,Current Liabilities,,,,
+17,Accounts Payable,"173,603","148,761","156,075","142,822"
+18,Short/Current Long Term Debt,"76,345","90,194","81,836","68,197"
+19,Other Current Liabilities,"45,256","96,781","43,837","20,592"
+20,Total Current Liabilities,"900,382","870,994","752,603","657,594"
+21,Long Term Debt,"12,502,088","11,403,351","9,997,015","8,156,113"
+22,Other Liabilities,"603,468","652,520","628,149","528,534"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"14,005,938","12,926,865","11,377,767","9,342,241"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,569,561,558,551
+32,Retained Earnings,"-2,246,578","-3,187,220","-1,146,963","-1,717,232"
+33,Treasury Stock,"-771,204","-859,864","-534,057","-271,949"
+34,Capital Surplus,"1,208,742","1,095,319","1,028,972","950,324"
+35,Other Stockholder Equity,"4,100","-85,143","-149,787","-96,009"
+36,Total Stockholder Equity,"-1,808,471","-2,951,204","-651,490","-1,038,306"
+37,Net Tangible Assets,"-9,820,165","-10,414,404","-8,095,285","-7,264,377"

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"259,700","346,600","330,400","323,600"
+3,Short Term Investments,"385,300","473,400","424,200","321,600"
+4,Net Receivables,"647,300","592,700","518,700","501,400"
+5,Inventory,"304,700","297,000","251,100","222,900"
+6,Other Current Assets,"41,500","57,200","37,600","33,800"
+7,Total Current Assets,"1,638,500","1,766,900","1,562,000","1,403,300"
+8,Long Term Investments,-,-,-,-
+9,Property Plant and Equipment,"540,000","528,900","461,900","442,700"
+10,Goodwill,"513,000","516,700","491,500","420,900"
+11,Intangible Assets,"293,100","308,700","308,300","291,000"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"86,900","76,200","67,300","71,300"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"3,071,500","3,197,400","2,891,000","2,629,200"
+16,Current Liabilities,,,,
+17,Accounts Payable,"543,800","535,000","528,600","424,900"
+18,Short/Current Long Term Debt,-,"7,500","7,200","12,900"
+19,Other Current Liabilities,"43,200","46,300","46,800","45,300"
+20,Total Current Liabilities,"785,300","793,800","765,600","653,200"
+21,Long Term Debt,"221,400","402,900","316,400","236,100"
+22,Other Liabilities,"347,800","355,800","293,700","297,600"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"1,354,500","1,552,500","1,375,700","1,186,900"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"295,500","295,700","296,000","296,200"
+32,Retained Earnings,"2,102,800","1,788,700","1,593,000","1,350,700"
+33,Treasury Stock,"-1,178,000","-926,000","-851,300","-673,900"
+34,Capital Surplus,"496,700","486,500","477,600","469,300"
+35,Other Stockholder Equity,"-350,800","-299,500","-363,200","-313,400"
+36,Total Stockholder Equity,"1,717,000","1,644,900","1,515,300","1,442,300"
+37,Net Tangible Assets,"910,900","819,500","715,500","730,400"

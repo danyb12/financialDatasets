@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"587,998","380,179","296,967","346,529"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"594,145","588,262","581,381","599,073"
+5,Inventory,"784,879","752,836","745,678","750,970"
+6,Other Current Assets,-,-,-,-
+7,Total Current Assets,"2,239,181","2,001,910","1,816,778","1,848,598"
+8,Long Term Investments,-,-,-,-
+9,Property Plant and Equipment,"2,130,294","2,106,697","2,177,248","2,240,460"
+10,Goodwill,"1,801,103","821,061","812,344","684,252"
+11,Intangible Assets,"1,278,292","474,037","588,038","447,309"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"254,150","150,021","129,925","123,752"
+14,Deferred Long Term Asset Charges,"1,166","3,023","56,861","36,390"
+15,Total Assets,"7,703,020","5,553,726","5,524,333","5,344,371"
+16,Current Liabilities,,,,
+17,Accounts Payable,"502,314","523,229","522,536","474,266"
+18,Short/Current Long Term Debt,"5,387","300,098",243,"499,923"
+19,Other Current Liabilities,"33,773","17,723","3,207","95,268"
+20,Total Current Liabilities,"2,418,566","2,076,543","1,909,443","2,217,912"
+21,Long Term Debt,"3,254,280","2,061,023","2,347,455","1,597,390"
+22,Other Liabilities,"622,908","484,595","439,748","481,607"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,"16,227","41,831","49,465"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"6,295,754","4,622,161","4,696,646","4,296,909"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,407,266","359,901","359,901","359,901"
+32,Retained Earnings,-,"6,371,082","6,115,961","5,897,603"
+33,Treasury Stock,-,"-6,740,623","-6,559,863","-6,043,384"
+34,Capital Surplus,-,"924,978","869,857","783,877"
+35,Other Stockholder Equity,-,"-313,746","-375,888","-371,025"
+36,Total Stockholder Equity,"1,407,266","915,338","785,856","997,997"
+37,Net Tangible Assets,"-1,672,129","-379,760","-614,526","-133,564"

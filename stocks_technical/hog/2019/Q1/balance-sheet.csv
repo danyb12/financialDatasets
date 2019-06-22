@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"1,203,766","338,186","425,540","400,443"
+3,Short Term Investments,"10,007",-,"5,519","45,192"
+4,Net Receivables,"306,474","329,986","285,106","247,405"
+5,Inventory,"556,128","538,202","499,917","585,907"
+6,Other Current Assets,"144,368","156,253","155,191","171,171"
+7,Total Current Assets,"4,484,442","3,884,742","3,853,852","3,977,883"
+8,Long Term Investments,-,-,-,-
+9,Property Plant and Equipment,"904,132","967,781","981,593","942,418"
+10,Goodwill,"55,048","55,947","53,391","54,182"
+11,Intangible Assets,-,"6,910","10,547","16,954"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"214,535","197,868","231,660","166,969"
+14,Deferred Long Term Asset Charges,"141,464","109,073","167,729","99,614"
+15,Total Assets,"10,665,664","9,972,672","9,890,240","9,972,977"
+16,Current Liabilities,,,,
+17,Accounts Payable,"284,861","227,597","235,318","235,614"
+18,Short/Current Long Term Debt,-,-,-,-
+19,Other Current Liabilities,-,"122,341","83,980","73,429"
+20,Total Current Liabilities,"3,597,600","3,158,170","2,862,562","2,747,307"
+21,Long Term Debt,"4,887,667","741,961","741,306","740,653"
+22,Other Liabilities,"406,448","347,464","410,848","524,987"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"8,891,715","8,128,395","7,970,082","8,133,323"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,819","1,813","1,806","3,449"
+32,Retained Earnings,"2,007,583","1,607,570","1,337,673","8,961,985"
+33,Treasury Stock,"-1,695,073","-1,187,914","-801,183","-8,454,341"
+34,Capital Surplus,"1,459,620","1,422,808","1,381,862","1,328,561"
+35,Other Stockholder Equity,"-629,684","-500,049","-565,381","-615,205"
+36,Total Stockholder Equity,"1,773,949","1,844,277","1,920,158","1,839,654"
+37,Net Tangible Assets,"1,718,901","1,781,420","1,856,220","1,768,518"

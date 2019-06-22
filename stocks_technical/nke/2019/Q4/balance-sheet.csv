@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,5/31/2018,5/31/2017,5/31/2016,5/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"4,249,000","3,808,000","3,138,000","3,852,000"
+3,Short Term Investments,"996,000","2,371,000","2,319,000","2,072,000"
+4,Net Receivables,"3,498,000","3,677,000","3,241,000","3,508,000"
+5,Inventory,"5,261,000","5,055,000","4,838,000","4,337,000"
+6,Other Current Assets,"240,000","217,000","489,000","1,036,000"
+7,Total Current Assets,"15,134,000","16,061,000","15,025,000","15,587,000"
+8,Long Term Investments,-,-,-,-
+9,Property Plant and Equipment,"4,454,000","3,989,000","3,520,000","3,011,000"
+10,Goodwill,"154,000","139,000","131,000","131,000"
+11,Intangible Assets,"285,000","283,000","281,000","281,000"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"2,509,000","2,787,000","2,422,000","2,587,000"
+14,Deferred Long Term Asset Charges,"1,978,000","2,516,000","2,033,000","2,062,000"
+15,Total Assets,"22,536,000","23,259,000","21,379,000","21,597,000"
+16,Current Liabilities,,,,
+17,Accounts Payable,"2,279,000","2,048,000","2,191,000","2,131,000"
+18,Short/Current Long Term Debt,"6,000","6,000","89,000","107,000"
+19,Other Current Liabilities,"677,000","552,000","578,000","1,441,000"
+20,Total Current Liabilities,"6,040,000","5,474,000","5,358,000","6,332,000"
+21,Long Term Debt,"3,468,000","3,471,000","1,993,000","1,079,000"
+22,Other Liabilities,"3,216,000","1,907,000","1,770,000","1,479,000"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"12,724,000","10,852,000","9,121,000","8,890,000"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"3,000","3,000","3,000","3,000"
+32,Retained Earnings,"3,517,000","6,907,000","4,151,000","4,685,000"
+33,Treasury Stock,"-92,000","-213,000","318,000","1,246,000"
+34,Capital Surplus,"6,384,000","5,710,000","7,786,000","6,773,000"
+35,Other Stockholder Equity,"-92,000","-213,000","318,000","1,246,000"
+36,Total Stockholder Equity,"9,812,000","12,407,000","12,258,000","12,707,000"
+37,Net Tangible Assets,"9,373,000","11,985,000","11,846,000","12,295,000"

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"636,899","449,511","389,275","167,714"
+3,Short Term Investments,"98,460","272,031","250,981","359,581"
+4,Net Receivables,"439,009","327,301","247,415","158,550"
+5,Inventory,"55,641","31,688","27,131","19,465"
+6,Other Current Assets,-,"3,075","2,956","2,436"
+7,Total Current Assets,"1,302,479","1,157,003","952,978","732,010"
+8,Long Term Investments,"55,025","94,554","104,844","151,370"
+9,Property Plant and Equipment,"521,329","348,793","175,167","136,473"
+10,Goodwill,-,"64,614","61,044","61,074"
+11,Intangible Assets,"81,949","24,454","20,954","18,088"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"91,676","88,438","81,164","59,618"
+14,Deferred Long Term Asset Charges,"64,689","50,059","67,844","51,416"
+15,Total Assets,"2,052,458","1,777,856","1,396,151","1,158,633"
+16,Current Liabilities,,,,
+17,Accounts Payable,"64,256","36,776","28,596","34,354"
+18,Short/Current Long Term Debt,-,-,-,-
+19,Other Current Liabilities,"393,138","285,176","199,458","134,837"
+20,Total Current Liabilities,"692,073","497,816","354,335","271,672"
+21,Long Term Debt,-,-,-,-
+22,Other Liabilities,"107,494","129,670","46,427","39,035"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"799,567","627,486","400,762","310,707"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,252,891",8,8,8
+32,Retained Earnings,-,"263,356","131,448","27,391"
+33,Treasury Stock,-,571,-938,-980
+34,Capital Surplus,-,"886,435","864,871","821,507"
+35,Other Stockholder Equity,-,571,-938,-980
+36,Total Stockholder Equity,"1,252,891","1,150,370","995,389","847,926"
+37,Net Tangible Assets,"1,170,942","1,061,302","913,391","768,764"

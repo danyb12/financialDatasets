@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2017,12/31/2016,12/31/2015,12/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"538,908","474,233","372,976","365,302"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"1,176,843","643,013","580,763","552,107"
+5,Inventory,-,-,-,-
+6,Other Current Assets,"748,673","141,410","124,831","132,881"
+7,Total Current Assets,"2,588,608","1,343,196","1,140,997","1,096,658"
+8,Long Term Investments,"3,412",-,-,-
+9,Property Plant and Equipment,"221,507","121,606","108,733","97,990"
+10,Goodwill,"2,987,294","738,453","715,359","586,665"
+11,Intangible Assets,"1,292,022","76,801","96,544","30,689"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"190,330","87,279","106,884","92,349"
+14,Deferred Long Term Asset Charges,"31,067","27,275","26,418","17,960"
+15,Total Assets,"7,283,173","2,367,335","2,168,517","1,904,351"
+16,Current Liabilities,,,,
+17,Accounts Payable,"49,000","41,009","31,570","16,802"
+18,Short/Current Long Term Debt,"3,278,845","694,391","823,963","407,900"
+19,Other Current Liabilities,"1,822,801","1,009,856","914,515","859,995"
+20,Total Current Liabilities,"2,822,585","1,460,249","1,323,492","1,215,218"
+21,Long Term Debt,"2,899,124","664,391","788,963","387,900"
+22,Other Liabilities,"577,999","181,817","188,462","140,062"
+23,Deferred Long Term Liability Charges,-,-,-,"7,781"
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"6,299,708","2,306,457","2,300,917","1,743,180"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,82,78,78,78
+32,Retained Earnings,"1,647,284","1,644,005","1,450,684","1,275,049"
+33,Treasury Stock,"-2,425,284","-2,446,332","-2,401,708","-1,878,389"
+34,Capital Surplus,"1,761,383","863,127","818,546","764,433"
+35,Other Stockholder Equity,"1,508","-49,683","-44,402","-21,170"
+36,Total Stockholder Equity,"983,465","60,878","-132,400","161,171"
+37,Net Tangible Assets,"-3,295,851","-754,376","-944,303","-456,183"

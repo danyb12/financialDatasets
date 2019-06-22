@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,Revenue,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Total Revenue,"6,515,000","6,572,000","6,309,000","6,172,000"
+2,Cost of Revenue,"2,805,000","2,765,000","2,607,000","2,539,000"
+3,Gross Profit,"3,710,000","3,807,000","3,702,000","3,633,000"
+4,Operating Expenses,,,,
+5,Research Development,-,-,-,-
+6,Selling General and Administrative,"1,958,000","1,856,000","1,851,000","1,915,000"
+7,Non Recurring,-,-,-,-
+8,Others,-,-,-,-
+9,Total Operating Expenses,"5,438,000","5,261,000","5,061,000","5,028,000"
+10,Operating Income or Loss,"1,077,000","1,311,000","1,248,000","1,144,000"
+11,Income from Continuing Operations,,,,
+12,Total Other Income/Expenses Net,"-1,959,000","-483,000","-432,000","-186,000"
+13,Earnings Before Interest and Taxes,"1,077,000","1,311,000","1,248,000","1,144,000"
+14,Interest Expense,"-394,000","-374,000","-333,000","-311,000"
+15,Income Before Tax,"-882,000","828,000","816,000","958,000"
+16,Income Tax Expense,"-182,000","388,000","309,000","383,000"
+17,Minority Interest,-,"198,000","191,000","194,000"
+18,Net Income From Continuing Ops,"-700,000","440,000","507,000","575,000"
+19,Non-recurring Events,,,,
+20,Discontinued Operations,-,-,-,-
+21,Extraordinary Items,-,-,-,-
+22,Effect Of Accounting Changes,-,-,-,-
+23,Other Items,-,-,-,-
+24,Net Income,,,,
+25,Net Income,"-712,000","429,000","502,000","570,000"
+26,Preferred Stock And Other Adjustments,-,-,-,-
+27,Net Income Applicable To Common Shares,"-712,000","429,000","502,000","570,000"

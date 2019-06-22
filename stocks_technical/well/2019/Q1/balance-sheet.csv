@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"215,376","243,777","419,378","360,908"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"972,106","987,562","1,163,645","1,156,348"
+5,Inventory,-,-,-,-
+6,Other Current Assets,"785,753","815,277","323,403","191,302"
+7,Total Current Assets,"1,973,235","2,046,616","1,906,426","1,708,558"
+8,Long Term Investments,"482,914","445,585","457,138","542,281"
+9,Property Plant and Equipment,"27,116,336","24,632,397","24,466,535","25,429,754"
+10,Goodwill,"68,321","68,321","68,321","68,321"
+11,Intangible Assets,"383,823","377,034","436,170","469,489"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"317,443","374,492","1,530,594","805,442"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"30,342,072","27,944,445","28,865,184","29,023,845"
+16,Current Liabilities,,,,
+17,Accounts Payable,-,-,-,-
+18,Short/Current Long Term Debt,-,-,-,-
+19,Other Current Liabilities,"71,109","38,654","4,342",-
+20,Total Current Liabilities,"1,034,283","911,863","827,034","691,717"
+21,Long Term Debt,"13,226,476","11,659,698","12,284,318","12,892,197"
+22,Other Liabilities,-,-,-,"5,474"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,"1,378,311","877,499","873,512","768,408"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"14,331,427","12,643,799","13,185,279","13,664,877"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"384,465","372,449","363,071","354,811"
+32,Retained Earnings,-,-,-,-
+33,Treasury Stock,"-4,894,997","-4,330,486","-3,562,619","-3,248,801"
+34,Capital Surplus,"18,424,368","17,662,681","16,999,691","16,478,300"
+35,Other Stockholder Equity,"-4,826,498","-4,265,927","-3,507,878","-3,204,429"
+36,Total Stockholder Equity,"13,913,836","13,704,644","13,800,143","13,584,310"
+37,Net Tangible Assets,"13,461,692","13,259,289","13,295,652","13,046,500"

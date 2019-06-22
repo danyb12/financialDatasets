@@ -1,0 +1,36 @@
+,Earnings Estimate,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,No. of Analysts,16.0,16.0,16.0,17.0
+1,Avg. Estimate,1.17,1.42,6.01,6.61
+2,Low Estimate,1.1,1.33,5.91,6.35
+3,High Estimate,1.21,1.57,6.12,6.91
+4,Year Ago EPS,1.29,1.28,5.65,6.01
+,Revenue Estimate,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,No. of Analysts,15,15,17,17
+1,Avg. Estimate,708.32M,766.45M,3.09B,3.23B
+2,Low Estimate,705M,733.5M,3.06B,3.16B
+3,High Estimate,714.4M,778.5M,3.11B,3.31B
+4,Year Ago Sales,697.19M,742.37M,2.97B,3.09B
+5,Sales Growth (year/est),1.60%,3.20%,3.80%,4.60%
+,Earnings History,3/30/2018,6/29/2018,9/29/2018,12/30/2018
+0,EPS Est.,1.05,1.2,1.25,1.59
+1,EPS Actual,1.29,1.28,1.4,1.67
+2,Difference,0.24,0.08,0.15,0.08
+3,Surprise %,22.90%,6.70%,12.00%,5.00%
+,EPS Trend,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,Current Estimate,1.17,1.42,6.01,6.61
+1,7 Days Ago,1.17,1.42,6.01,6.61
+2,30 Days Ago,1.18,1.42,6.01,6.61
+3,60 Days Ago,1.18,1.42,6.01,6.61
+4,90 Days Ago,1.37,1.43,6.06,6.77
+,EPS Revisions,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,Up Last 7 Days,N/A,N/A,N/A,N/A
+1,Up Last 30 Days,N/A,N/A,N/A,N/A
+2,Down Last 7 Days,N/A,N/A,N/A,N/A
+3,Down Last 30 Days,N/A,N/A,N/A,N/A
+,Growth Estimates,CTXS,Industry,Sector,S&P 500
+0,Current Qtr.,-9.30%,N/A,N/A,-0.02
+1,Next Qtr.,10.90%,N/A,N/A,0.04
+2,Current Year,6.40%,N/A,N/A,0.05
+3,Next Year,10.00%,N/A,N/A,0.11
+4,Next 5 Years (per annum),9.13%,N/A,N/A,0.10
+5,Past 5 Years (per annum),13.94%,N/A,N/A,N/A

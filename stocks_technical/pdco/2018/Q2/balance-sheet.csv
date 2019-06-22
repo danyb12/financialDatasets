@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,4/28/2018,4/29/2017,4/30/2016,4/25/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"62,984","94,959","137,453","347,260"
+3,Short Term Investments,-,-,-,"53,372"
+4,Net Receivables,"826,877","884,803","796,693","586,263"
+5,Inventory,"779,834","711,903","722,140","408,422"
+6,Other Current Assets,-,-,-,"118,347"
+7,Total Current Assets,"1,772,724","1,803,593","1,747,541","1,573,225"
+8,Long Term Investments,"1,613","1,188",816,"1,255"
+9,Property Plant and Equipment,"290,590","298,452","293,315","204,133"
+10,Goodwill,"815,977","813,547","816,592","299,924"
+11,Intangible Assets,"389,424","425,436","509,297","125,025"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"201,336","165,697","153,243","741,686"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"3,471,664","3,507,913","3,520,804","2,945,248"
+16,Current Liabilities,,,,
+17,Accounts Payable,"610,368","616,859","566,253","323,294"
+18,Short/Current Long Term Debt,"1,016,241","1,073,214","1,059,471","723,797"
+19,Other Current Liabilities,-,-,-,"39,316"
+20,Total Current Liabilities,"908,381","903,931","829,335","577,685"
+21,Long Term Debt,"923,643","999,460","1,022,971","723,797"
+22,Other Liabilities,"177,850","210,089","226,752","129,643"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"2,009,874","2,113,480","2,079,058","1,431,125"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,948,966,991,"1,033"
+32,Retained Earnings,"1,497,766","1,481,234","1,529,158","1,630,148"
+33,Treasury Stock,"-140,700","-160,740","-136,880","-138,084"
+34,Capital Surplus,"103,776","72,973","48,477","21,026"
+35,Other Stockholder Equity,"-140,700","-160,740","-136,880","-138,084"
+36,Total Stockholder Equity,"1,461,790","1,394,433","1,441,746","1,514,123"
+37,Net Tangible Assets,"256,389","155,450","115,857","1,089,174"

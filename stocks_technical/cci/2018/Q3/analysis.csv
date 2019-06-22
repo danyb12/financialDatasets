@@ -1,0 +1,36 @@
+,Earnings Estimate,Current Qtr. (Sep 2018),Next Qtr. (Dec 2018),Current Year (2018),Next Year (2019)
+0,No. of Analysts,16.0,17.0,17.0,18.0
+1,Avg. Estimate,0.27,0.39,1.24,1.7
+2,Low Estimate,0.26,0.33,1.18,1.44
+3,High Estimate,0.3,0.42,1.36,1.95
+4,Year Ago EPS,0.21,0.17,1.01,1.24
+,Revenue Estimate,Current Qtr. (Sep 2018),Next Qtr. (Dec 2018),Current Year (2018),Next Year (2019)
+0,No. of Analysts,14,14,17,17
+1,Avg. Estimate,1.35B,1.39B,5.37B,5.66B
+2,Low Estimate,1.34B,1.37B,5.34B,5.56B
+3,High Estimate,1.37B,1.41B,5.41B,5.77B
+4,Year Ago Sales,1.06B,1.24B,4.36B,5.37B
+5,Sales Growth (year/est),27.20%,12.10%,23.30%,5.40%
+,Earnings History,9/29/2017,12/30/2017,3/30/2018,6/29/2018
+0,EPS Est.,0.24,0.24,0.26,0.31
+1,EPS Actual,0.21,0.17,0.21,0.36
+2,Difference,-0.03,-0.07,-0.05,0.05
+3,Surprise %,-12.50%,-29.20%,-19.20%,16.10%
+,EPS Trend,Current Qtr. (Sep 2018),Next Qtr. (Dec 2018),Current Year (2018),Next Year (2019)
+0,Current Estimate,0.27,0.39,1.24,1.7
+1,7 Days Ago,0.27,0.39,1.24,1.71
+2,30 Days Ago,0.27,0.39,1.24,1.71
+3,60 Days Ago,0.28,0.39,1.24,1.71
+4,90 Days Ago,0.35,0.37,1.23,1.68
+,EPS Revisions,Current Qtr. (Sep 2018),Next Qtr. (Dec 2018),Current Year (2018),Next Year (2019)
+0,Up Last 7 Days,N/A,N/A,N/A,N/A
+1,Up Last 30 Days,N/A,N/A,N/A,N/A
+2,Down Last 7 Days,N/A,N/A,N/A,N/A
+3,Down Last 30 Days,1,1,2,1
+,Growth Estimates,CCI,Industry,Sector,S&P 500
+0,Current Qtr.,28.60%,N/A,N/A,0.32
+1,Next Qtr.,129.40%,N/A,N/A,0.43
+2,Current Year,22.80%,N/A,N/A,0.24
+3,Next Year,37.10%,N/A,N/A,0.27
+4,Next 5 Years (per annum),21.39%,N/A,N/A,0.11
+5,Past 5 Years (per annum),5.57%,N/A,N/A,N/A

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"2,489,000","2,006,500","1,833,200","1,420,900"
+3,Short Term Investments,"1,070,100","1,026,100","752,300","527,100"
+4,Net Receivables,"754,600","852,000","1,054,100","780,700"
+5,Inventory,-,"93,800","91,400","66,600"
+6,Other Current Assets,-,"95,100","4,900",-
+7,Total Current Assets,"4,581,800","4,184,500","3,971,900","2,912,400"
+8,Long Term Investments,"199,000","1,071,400","1,133,100","1,346,600"
+9,Property Plant and Equipment,"951,700","1,021,100","1,063,800","1,021,000"
+10,Goodwill,"3,108,800","3,096,200","3,081,700","2,981,300"
+11,Intangible Assets,"118,500","128,100","130,200","33,900"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"403,500","332,500","275,800","312,700"
+14,Deferred Long Term Asset Charges,-,-,-,"55,900"
+15,Total Assets,"9,363,300","9,833,800","9,656,500","8,607,900"
+16,Current Liabilities,,,,
+17,Accounts Payable,"208,800","217,600","221,000","159,300"
+18,Short/Current Long Term Debt,-,-,-,-
+19,Other Current Liabilities,"829,300","1,075,900","1,080,400","850,000"
+20,Total Current Liabilities,"1,842,500","1,738,200","1,735,900","1,801,900"
+21,Long Term Debt,"1,789,100","2,136,300","2,133,700","1,637,500"
+22,Other Liabilities,"908,500","1,215,800","824,400","594,100"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"4,540,100","5,152,900","4,694,000","4,033,500"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"4,823,200",-,-,-
+32,Retained Earnings,-,"-3,355,800","-3,281,800","-3,741,200"
+33,Treasury Stock,-,"-5,400","-37,300","-19,200"
+34,Capital Surplus,-,"8,042,100","8,281,600","8,334,800"
+35,Other Stockholder Equity,-,"-5,400","-37,300","-19,200"
+36,Total Stockholder Equity,"4,823,200","4,680,900","4,962,500","4,574,400"
+37,Net Tangible Assets,"1,595,900","1,456,600","1,750,600","1,559,200"

@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Period Ending,9/30/2018,9/30/2017,9/30/2016,9/30/2015
+1,Net Income,"535,500","825,700","729,700","827,600"
+2,"Operating Activities, Cash Flows Provided By or Used In",,,,
+3,Depreciation,"152,800","159,100","160,700","153,100"
+4,Adjustments To Net Income,"185,200","-67,300","81,200","100,000"
+5,Changes In Accounts Receivables,"-91,700","-53,000","-18,900","73,400"
+6,Changes In Liabilities,"67,200","81,100","32,300","17,300"
+7,Changes In Inventories,"-37,400","-30,400","4,600","-2,500"
+8,Changes In Other Operating Activities,"49,900","131,200","-44,900","-17,900"
+9,Total Cash Flow From Operating Activities,"1,300,000","1,034,000","947,300","1,187,700"
+10,"Investing Activities, Cash Flows Provided By or Used In",,,,
+11,Capital Expenditures,"-125,500","-141,700","-116,900","-122,900"
+12,Investments,"-35,500","-469,000","-184,400","-104,900"
+13,Other Cash flows from Investing Activities,-,-,-,-
+14,Total Cash Flows From Investing Activities,"-170,400","-516,700","-440,000","-246,900"
+15,"Financing Activities, Cash Flows Provided By or Used In",,,,
+16,Dividends Paid,"-440,800","-390,700","-378,200","-350,100"
+17,Sale Purchase of Stock,-,-,-,-
+18,Net Borrowings,"-49,400","-98,200","448,600","269,300"
+19,Other Cash Flows from Financing Activities,"1,800","1,800","3,300","10,800"
+20,Total Cash Flows From Financing Activities,"-1,888,900","-649,600","-397,700","-608,100"
+21,Effect Of Exchange Rate Changes,"-32,800","16,800","-10,500","-96,700"
+22,Change In Cash and Cash Equivalents,"-792,100","-115,500","99,100","236,000"

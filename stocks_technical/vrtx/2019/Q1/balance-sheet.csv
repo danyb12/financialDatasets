@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"2,650,134","1,665,412","1,183,945","714,768"
+3,Short Term Investments,"518,108","423,254","250,612","327,694"
+4,Net Receivables,"476,462","385,992","220,416","188,520"
+5,Inventory,"124,360","111,830","77,604","57,207"
+6,Other Current Assets,-,-,"62,829","96,906"
+7,Total Current Assets,"3,843,109","2,648,963","1,831,540","1,407,153"
+8,Long Term Investments,"13,600",-,"20,276",-
+9,Property Plant and Equipment,"812,005","789,437","698,362","697,715"
+10,Goodwill,"50,384","50,384","50,384","50,384"
+11,Intangible Assets,-,"29,000","284,340","284,340"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"1,526,800","28,230","11,885","58,995"
+14,Deferred Long Term Asset Charges,"1,499,672",834,-,-
+15,Total Assets,"6,245,898","3,546,014","2,896,787","2,498,587"
+16,Current Liabilities,,,,
+17,Accounts Payable,"110,987","73,994","61,451","74,942"
+18,Short/Current Long Term Debt,-,-,-,"71,296"
+19,Other Current Liabilities,"394,993","266,774","96,411","69,517"
+20,Total Current Liabilities,"1,120,292","807,260","792,537","506,167"
+21,Long Term Debt,-,-,-,"223,863"
+22,Other Liabilities,"108,853","112,546","244,724","159,395"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,"13,727","181,609","153,661"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"1,810,695","1,503,708","1,558,596","1,404,959"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"2,546","2,512","2,450","2,427"
+32,Retained Earnings,"-2,989,478","-5,119,723","-5,373,836","-5,261,784"
+33,Treasury Stock,659,"-11,572","21,173","1,824"
+34,Capital Surplus,"7,421,476","7,157,362","6,506,795","6,197,500"
+35,Other Stockholder Equity,659,"-11,572","21,173","1,824"
+36,Total Stockholder Equity,"4,435,203","2,028,579","1,156,582","939,967"
+37,Net Tangible Assets,"4,384,819","1,949,195","821,858","605,243"

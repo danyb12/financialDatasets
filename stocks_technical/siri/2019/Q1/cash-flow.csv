@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Net Income,"1,175,893","647,908","745,933","509,724"
+2,"Operating Activities, Cash Flows Provided By or Used In",,,,
+3,Depreciation,"300,720","298,602","268,979","272,214"
+4,Adjustments To Net Income,"407,788","802,780","517,107","515,048"
+5,Changes In Accounts Receivables,"-42,083","-73,777","-44,188","-61,440"
+6,Changes In Liabilities,"49,916","83,261","158,324","197,938"
+7,Changes In Inventories,"-1,999","1,874","1,932","-2,898"
+8,Changes In Other Operating Activities,"-19,114","85,891","62,542","-194,407"
+9,Total Cash Flow From Operating Activities,"1,880,418","1,855,589","1,719,237","1,244,051"
+10,"Investing Activities, Cash Flows Provided By or Used In",,,,
+11,Capital Expenditures,"-355,703","-287,970","-205,829","-134,892"
+12,Investments,"-24,438","-620,312","-4,295","-4,295"
+13,Other Cash flows from Investing Activities,"3,242","-130,794","-130,794","-3,966"
+14,Total Cash Flows From Investing Activities,"-379,276","-1,146,349","-210,124","-138,858"
+15,"Financing Activities, Cash Flows Provided By or Used In",,,,
+16,Dividends Paid,"-201,434","-190,242","-48,079","-48,079"
+17,Sale Purchase of Stock,-,-,-,-
+18,Net Borrowings,"120,192","870,493","376,158","931,454"
+19,Other Cash Flows from Financing Activities,-,"-33,065","-19,097","-19,097"
+20,Total Cash Flows From Financing Activities,"-1,515,146","-853,694","-1,407,012","-1,141,079"
+21,Effect Of Exchange Rate Changes,-,-,-,-
+22,Change In Cash and Cash Equivalents,"-14,004","-144,454","102,101","-35,886"

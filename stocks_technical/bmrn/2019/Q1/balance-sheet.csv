@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"493,982","598,028","408,330","397,040"
+3,Short Term Investments,"590,326","797,940","381,347","195,579"
+4,Net Receivables,"342,633","261,365","215,280","164,959"
+5,Inventory,"530,871","475,775","355,126","271,683"
+6,Other Current Assets,"98,403","74,036","61,708","60,378"
+7,Total Current Assets,"2,056,215","2,207,144","1,421,791","1,089,639"
+8,Long Term Investments,"235,864","385,785","576,775","443,708"
+9,Property Plant and Equipment,"948,682","896,700","798,768","704,207"
+10,Goodwill,"197,039","197,039","197,039","197,039"
+11,Intangible Assets,"491,808","517,510","553,780","683,996"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"497,520","428,947","475,537","610,779"
+14,Deferred Long Term Asset Charges,"460,952","399,095","446,786","220,191"
+15,Total Assets,"4,427,128","4,633,125","4,023,690","3,729,368"
+16,Current Liabilities,,,,
+17,Accounts Payable,"437,290","166,616","191,353","179,294"
+18,Short/Current Long Term Debt,-,"360,949","22,478",-
+19,Other Current Liabilities,"85,951","83,140","58,705","121,476"
+20,Total Current Liabilities,"523,241","816,518","439,310","445,457"
+21,Long Term Debt,"830,417","813,521","660,761","662,286"
+22,Other Liabilities,"105,530","194,423","157,344","220,778"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"1,459,188","1,824,462","1,257,415","1,328,521"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,178,176,173,162
+32,Retained Earnings,"-1,694,134","-1,637,548","-1,520,506","-1,021,569"
+33,Treasury Stock,"-8,030","-37,185","-1,505","7,417"
+34,Capital Surplus,"4,669,926","4,483,220","4,288,113","3,414,837"
+35,Other Stockholder Equity,"-8,030","-37,185","-1,505","7,417"
+36,Total Stockholder Equity,"2,967,940","2,808,663","2,766,275","2,400,847"
+37,Net Tangible Assets,"2,279,093","2,094,114","2,015,456","1,519,812"

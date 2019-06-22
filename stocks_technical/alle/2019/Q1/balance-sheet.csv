@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2018,12/31/2017,12/31/2016,12/31/2015
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"283,800","466,200","312,400","199,700"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"324,900","308,800","271,900","313,900"
+5,Inventory,"280,300","239,800","220,600","204,100"
+6,Other Current Assets,"42,600","17,900","24,400","17,400"
+7,Total Current Assets,"931,600","1,032,700","829,300","735,100"
+8,Long Term Investments,-,"5,300","4,600","14,200"
+9,Property Plant and Equipment,"276,700","252,200","226,600","224,800"
+10,Goodwill,"883,000","761,200","716,800","714,100"
+11,Intangible Assets,"547,100","394,300","357,400","372,400"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"171,800","96,300","112,700","202,400"
+14,Deferred Long Term Asset Charges,-,"35,400","72,300","91,900"
+15,Total Assets,"2,810,200","2,542,000","2,247,400","2,263,000"
+16,Current Liabilities,,,,
+17,Accounts Payable,"235,000","188,300","179,900","175,100"
+18,Short/Current Long Term Debt,"35,300","35,000","48,200","65,600"
+19,Other Current Liabilities,-,"33,000","16,300","25,300"
+20,Total Current Liabilities,"520,800","460,800","429,600","447,100"
+21,Long Term Debt,"1,409,500","1,442,300","1,416,000","1,458,700"
+22,Other Liabilities,"225,900","233,400","285,400","327,500"
+23,Deferred Long Term Liability Charges,-,-,-,-
+24,Minority Interest,-,"3,900","3,100","4,100"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"2,156,200","2,136,500","2,131,000","2,233,300"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"654,000","1,000","1,000","1,000"
+32,Retained Earnings,-,"544,400","376,600","232,400"
+33,Treasury Stock,-,"-152,900","-264,300","-232,200"
+34,Capital Surplus,-,"9,100",-,"24,400"
+35,Other Stockholder Equity,-,"-152,900","-264,300","-232,200"
+36,Total Stockholder Equity,"654,000","401,600","113,300","25,600"
+37,Net Tangible Assets,"-776,100","-753,900","-960,900","-1,060,900"

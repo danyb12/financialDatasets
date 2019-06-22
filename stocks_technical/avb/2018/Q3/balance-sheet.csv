@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2017,12/31/2016,12/31/2015,12/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"67,088","214,994","400,507","509,460"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,-,-,-,-
+5,Inventory,-,-,-,-
+6,Other Current Assets,"376,051","403,988","333,993","330,034"
+7,Total Current Assets,"443,139","618,982","734,500","839,494"
+8,Long Term Investments,"163,475","175,116","216,919","298,315"
+9,Property Plant and Equipment,"17,649,193","16,927,855","15,440,443","14,576,293"
+10,Goodwill,-,-,-,-
+11,Intangible Assets,-,-,-,-
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"159,014","145,318","539,443","426,476"
+14,Deferred Long Term Asset Charges,-,-,-,-
+15,Total Assets,"18,414,821","17,867,271","16,931,305","16,140,578"
+16,Current Liabilities,,,,
+17,Accounts Payable,"85,377","100,998","98,802","101,916"
+18,Short/Current Long Term Debt,"7,349,588","7,030,880","6,456,948","6,489,707"
+19,Other Current Liabilities,"196,094","186,205","171,810","155,207"
+20,Total Current Liabilities,"612,658","600,186","570,702","542,875"
+21,Long Term Debt,"7,329,470","7,030,880","6,456,948","6,489,707"
+22,Other Liabilities,"58,473","57,023","53,132","48,826"
+23,Deferred Long Term Liability Charges,"45,819","40,179","37,577","67,029"
+24,Minority Interest,"6,056","7,766","9,997","12,765"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"8,020,719","7,688,089","7,080,782","7,081,408"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,381","1,373","1,370","1,320"
+32,Retained Earnings,"188,609","94,899",-,-
+33,Treasury Stock,"-37,419","-30,510","-229,376","-309,600"
+34,Capital Surplus,"10,235,475","10,105,654","10,068,532","9,354,685"
+35,Other Stockholder Equity,"-37,419","-30,510","-229,376","-309,600"
+36,Total Stockholder Equity,"10,388,046","10,171,416","9,840,526","9,046,405"
+37,Net Tangible Assets,"10,388,046","10,171,416","9,840,526","9,046,405"

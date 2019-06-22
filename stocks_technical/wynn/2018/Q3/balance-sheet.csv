@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2017,12/31/2016,12/31/2015,12/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"2,804,474","2,453,122","2,080,089","2,182,164"
+3,Short Term Investments,"166,773","173,437","115,297","240,140"
+4,Net Receivables,"299,128","218,968","187,887","237,957"
+5,Inventory,"71,636","91,541","74,493","72,223"
+6,Other Current Assets,-,-,-,-
+7,Total Current Assets,"3,423,784","2,990,367","2,505,778","2,782,331"
+8,Long Term Investments,"160,682","128,023","137,683","20,316"
+9,Property Plant and Equipment,"8,498,756","8,259,631","7,477,478","5,855,842"
+10,Goodwill,-,-,-,-
+11,Intangible Assets,"123,705","113,588","110,972","112,367"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"474,812","461,948","227,248","292,005"
+14,Deferred Long Term Asset Charges,"240,533",-,-,-
+15,Total Assets,"12,681,739","11,953,557","10,459,159","9,062,861"
+16,Current Liabilities,,,,
+17,Accounts Payable,"285,437","298,505","267,791","303,284"
+18,Short/Current Long Term Debt,"9,645,142","10,125,352","9,149,773","7,345,262"
+19,Other Current Liabilities,"1,049,629","599,566","452,409","579,632"
+20,Total Current Liabilities,"1,930,290","1,416,301","1,110,171","1,308,318"
+21,Long Term Debt,"9,565,936","10,125,352","9,149,773","7,345,262"
+22,Other Liabilities,"90,647","154,023","177,370","198,190"
+23,Deferred Long Term Liability Charges,-,-,"41,300","84,413"
+24,Minority Interest,"130,504","99,932","133,824","239,870"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"11,603,389","11,695,676","10,437,314","8,851,770"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,164","1,150","1,146","1,144"
+32,Retained Earnings,"635,067","95,097","55,332","164,487"
+33,Treasury Stock,"-1,186,313","-1,165,213","-1,151,588","-1,142,976"
+34,Capital Surplus,"1,497,928","1,226,915","983,131","948,566"
+35,Other Stockholder Equity,"-1,845","1,484","1,092","2,505"
+36,Total Stockholder Equity,"947,846","157,949","-111,979","-28,779"
+37,Net Tangible Assets,"824,141","44,361","-222,951","-141,146"

@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2017,12/31/2016,12/31/2015,12/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"511,100","253,000","149,200","592,500"
+3,Short Term Investments,-,-,"18,800",-
+4,Net Receivables,"65,900","71,100","65,100","72,100"
+5,Inventory,"7,100","2,700",-,-
+6,Other Current Assets,"15,300","16,900","28,000","24,500"
+7,Total Current Assets,"616,400","361,200","274,700","698,900"
+8,Long Term Investments,"203,100","147,400","94,800","67,100"
+9,Property Plant and Equipment,"3,952,500","3,683,000","3,274,600","2,664,800"
+10,Goodwill,-,-,-,-
+11,Intangible Assets,-,-,-,-
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"16,400","30,000","30,200","36,100"
+14,Deferred Long Term Asset Charges,"14,500","21,300","16,100","13,900"
+15,Total Assets,"4,788,400","4,221,600","3,674,300","3,466,900"
+16,Current Liabilities,,,,
+17,Accounts Payable,"6,200","9,600","6,200","6,200"
+18,Short/Current Long Term Debt,-,-,-,-
+19,Other Current Liabilities,"1,100","16,600","2,800","3,400"
+20,Total Current Liabilities,"22,600","37,600","20,800","21,100"
+21,Long Term Debt,-,-,"457,300",-
+22,Other Liabilities,"60,300","37,500","33,200","40,300"
+23,Deferred Long Term Liability Charges,"1,900","1,600",-,"1,000"
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"82,900","75,100","511,300","61,400"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"5,107,800","4,666,200","3,709,000","3,656,600"
+32,Retained Earnings,"-310,000","-336,800","-302,200","-197,800"
+33,Treasury Stock,"-106,500","-224,500","-288,100","-98,800"
+34,Capital Surplus,"14,200","41,600","44,300","45,500"
+35,Other Stockholder Equity,"-106,500","-224,500","-288,100","-98,800"
+36,Total Stockholder Equity,"4,705,500","4,146,500","3,163,000","3,405,500"
+37,Net Tangible Assets,"4,705,500","4,146,500","3,163,000","3,405,500"

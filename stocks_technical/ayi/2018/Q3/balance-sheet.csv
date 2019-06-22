@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,8/31/2017,8/31/2016,8/31/2015,8/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"311,100","413,200","756,800","552,500"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"573,300","572,800","411,700","373,400"
+5,Inventory,"328,600","295,200","224,800","212,000"
+6,Other Current Assets,-,"5,400",-,"21,500"
+7,Total Current Assets,"1,245,600","1,322,900","1,413,400","1,186,400"
+8,Long Term Investments,-,"8,000","8,000",-
+9,Property Plant and Equipment,"287,700","267,800","174,600","152,500"
+10,Goodwill,"900,900","947,800","565,000","569,400"
+11,Intangible Assets,"448,800","381,400","225,000","233,900"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"16,600","20,100","21,000","24,200"
+14,Deferred Long Term Asset Charges,"3,400","5,100","3,500","3,000"
+15,Total Assets,"2,899,600","2,948,000","2,407,000","2,166,400"
+16,Current Liabilities,,,,
+17,Accounts Payable,"395,100","401,000","311,100","287,400"
+18,Short/Current Long Term Debt,"356,900","355,200","352,400","351,900"
+19,Other Current Liabilities,-,-,-,-
+20,Total Current Liabilities,"600,900","672,500","520,900","470,500"
+21,Long Term Debt,"356,500","355,000","352,400","351,900"
+22,Other Liabilities,"276,600","260,700","173,700","180,500"
+23,Deferred Long Term Liability Charges,"6,700","8,300","10,700","15,000"
+24,Minority Interest,-,-,-,-
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"1,234,000","1,288,200","1,047,000","1,002,900"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,500,500,500,500
+32,Retained Earnings,"1,659,900","1,360,900","1,093,000","893,600"
+33,Treasury Stock,"-875,800","-558,000","-530,600","-492,100"
+34,Capital Surplus,"881,000","856,400","797,100","761,500"
+35,Other Stockholder Equity,"-99,700","-139,400","-110,400","-71,900"
+36,Total Stockholder Equity,"1,665,600","1,659,800","1,360,000","1,163,500"
+37,Net Tangible Assets,"315,900","330,600","570,000","360,200"

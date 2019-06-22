@@ -1,0 +1,36 @@
+,Earnings Estimate,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,No. of Analysts,16.0,16.0,21.0,18.0
+1,Avg. Estimate,2.23,3.26,13.91,14.16
+2,Low Estimate,2.16,3.06,13.8,13.55
+3,High Estimate,2.31,3.37,14.0,14.48
+4,Year Ago EPS,2.45,3.08,13.81,13.91
+,Revenue Estimate,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,No. of Analysts,14,14,19,16
+1,Avg. Estimate,18.53B,19.48B,77.99B,78.07B
+2,Low Estimate,18.28B,19.21B,76.85B,76.77B
+3,High Estimate,19.26B,20.2B,80.7B,78.85B
+4,Year Ago Sales,19.07B,20B,79.59B,77.99B
+5,Sales Growth (year/est),-2.80%,-2.60%,-2.00%,0.10%
+,Earnings History,3/30/2018,6/29/2018,9/29/2018,12/30/2018
+0,EPS Est.,2.42,3.04,3.4,4.82
+1,EPS Actual,2.45,3.08,3.42,4.87
+2,Difference,0.03,0.04,0.02,0.05
+3,Surprise %,1.20%,1.30%,0.60%,1.00%
+,EPS Trend,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,Current Estimate,2.23,3.26,13.91,14.16
+1,7 Days Ago,2.23,3.26,13.91,14.17
+2,30 Days Ago,2.23,3.26,13.91,14.17
+3,60 Days Ago,2.23,3.26,13.91,14.14
+4,90 Days Ago,2.26,3.21,13.91,14.38
+,EPS Revisions,Current Qtr. (Mar 2019),Next Qtr. (Jun 2019),Current Year (2019),Next Year (2020)
+0,Up Last 7 Days,N/A,N/A,N/A,N/A
+1,Up Last 30 Days,N/A,N/A,N/A,N/A
+2,Down Last 7 Days,N/A,N/A,N/A,N/A
+3,Down Last 30 Days,1,1,1,1
+,Growth Estimates,IBM,Industry,Sector,S&P 500
+0,Current Qtr.,-9.00%,N/A,N/A,-0.02
+1,Next Qtr.,5.80%,N/A,N/A,0.05
+2,Current Year,0.70%,N/A,N/A,0.05
+3,Next Year,1.80%,N/A,N/A,0.11
+4,Next 5 Years (per annum),0.96%,N/A,N/A,0.10
+5,Past 5 Years (per annum),-3.49%,N/A,N/A,N/A

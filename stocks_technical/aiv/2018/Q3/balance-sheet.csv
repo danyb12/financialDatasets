@@ -1,0 +1,39 @@
+,0,1,2,3,4
+0,Period Ending,12/31/2017,12/31/2016,12/31/2015,12/31/2014
+1,Current Assets,,,,
+2,Cash And Cash Equivalents,"76,786","61,244","50,789","28,971"
+3,Short Term Investments,-,-,-,-
+4,Net Receivables,"11,417","13,042",-,-
+5,Inventory,-,-,-,-
+6,Other Current Assets,"120,222","106,988","197,463","277,041"
+7,Total Current Assets,"208,425","181,274","248,252","306,012"
+8,Long Term Investments,"95,430","88,559","80,903","77,089"
+9,Property Plant and Equipment,"5,641,216","5,765,017","5,529,461","5,472,779"
+10,Goodwill,"37,800","37,800","43,900","45,100"
+11,Intangible Assets,"10,001","13,839","17,947","4,341"
+12,Accumulated Amortization,-,-,-,-
+13,Other Assets,"86,168","146,329","198,218","191,707"
+14,Deferred Long Term Asset Charges,"32,227","67,544","41,216",252
+15,Total Assets,"6,079,040","6,232,818","6,118,681","6,097,028"
+16,Current Liabilities,,,,
+17,Accounts Payable,-,-,"36,123","41,919"
+18,Short/Current Long Term Debt,"4,090,706","3,887,807","3,854,079","4,140,412"
+19,Other Current Liabilities,-,-,53,"28,969"
+20,Total Current Liabilities,"468,058","278,392","348,719","457,022"
+21,Long Term Debt,"3,841,205","3,887,807","3,854,079","4,028,082"
+22,Other Liabilities,"12,487","18,452","64,052","81,882"
+23,Deferred Long Term Liability Charges,"38,408","26,293","2,107","30,320"
+24,Minority Interest,"94,146","254,264","229,440","302,307"
+25,Negative Goodwill,-,-,-,-
+26,Total Liabilities,"4,321,750","4,184,651","4,266,850","4,566,986"
+27,Stockholders' Equity,,,,
+28,Misc. Stocks Options Warrants,-,-,-,-
+29,Redeemable Preferred Stock,-,-,-,-
+30,Preferred Stock,-,-,-,-
+31,Common Stock,"1,572","1,569","1,563","1,464"
+32,Retained Earnings,-,-,-,-
+33,Treasury Stock,"-2,363,470","-2,384,388","-2,602,957","-2,655,998"
+34,Capital Surplus,"3,900,042","4,051,722","4,064,659","3,696,143"
+35,Other Stockholder Equity,"-2,363,470","-2,384,388","-2,602,957","-2,655,998"
+36,Total Stockholder Equity,"1,538,144","1,668,903","1,463,265","1,041,609"
+37,Net Tangible Assets,"1,490,343","1,617,264","1,401,418","992,168"
