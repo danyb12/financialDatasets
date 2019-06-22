@@ -17,7 +17,7 @@ Files               | What is it used for
 'stocks_quant'      | folder contains historical data for stocks
 
 
-####How the program works:
+####  How the program works:
 Parses Yahoo Finance, Nasdaq, etc to gather data
 
 Uses a decision maker to map values to more workable numbers 1 2 3 4 5 based on 
@@ -27,7 +27,7 @@ Creates the model
 
 binary classification supervised learning algorithm to predict revenue and earnings
 
-#### CHARTS
+### CHARTS
 These charts are used to supplement the program:
 
 1. Daily Market Movement (replace nflx with /es)
@@ -39,9 +39,12 @@ These charts are used to supplement the program:
 3. Volume and Price
 ![CHART3](https://github.com/danyb12/financialDatasets/blob/master/charts/volume_price.JPG)
 
-### IMPROVEMENTS
+# IMPROVEMENTS
 
-A better learning model for the binaryclassificationv2 or better data.
+* A better machine learning algorithm to predict earnings and REVENUE using binary classification v2. Which is located in stocks_neural
+
+* Collecting more and better data
+
 
 
 
