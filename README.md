@@ -1,6 +1,9 @@
 # financialDatasets
 Financial Datasets parsed from Yahoo Finance, Nasdaq, and news
 
+
+
+
 # New dataset weekly
 
 
