@@ -18,5 +18,5 @@ You can locate file in stocks_neural
 
 Using this model to trade options before/after earnings to take advantage of volatility and price increase to maximize profits
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![RETURNS](https://github.com/danyb12/financialDatasets/blob/master/returns.png)
 
